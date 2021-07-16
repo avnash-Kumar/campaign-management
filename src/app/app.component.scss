@@ -1,0 +1,29 @@
+:host ::ng-deep .tabview-custom {
+    i, span {
+        vertical-align: middle;
+    }
+
+    span {
+        margin: 0 .5rem;
+    }
+}
+
+:host ::ng-deep .p-button {
+    margin-right: .25rem;
+}
+
+:host ::ng-deep .p-tabview p {
+    line-height: 1.5;
+    margin: 0;
+}
+.header{
+    width: 100%;
+    background: #1F2640;
+    padding: 0px 15%;
+    img{
+        padding: 5px 0px;
+    }
+}
+.card {
+    padding: 0px 15%;
+}

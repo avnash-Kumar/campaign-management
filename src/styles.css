@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+}
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-style: Bold;
+  font-size: 32px;
+  line-height: 50px;
+  text-align: Left;
+}
+
+.p-tabview .p-tabview-nav li .p-tabview-nav-link:not(.p-disabled):focus {
+  outline: 0 none;
+  outline-offset: 0;
+  box-shadow: 0 0 0 0 #fff!important;
+}
